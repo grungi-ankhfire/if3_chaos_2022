@@ -1,7 +1,17 @@
-Type : 
+Type : enfant ( equivalent 14 ans âge humain)
+    origine  inconnue
+    race : Trill
 
-Nom et prenom :
 
-Apparence :
+Nom et prenom : Cassandre ( pas de nom de fammille)
 
-Personnalité :
+Apparence : petite humanoide d'apparence humaine, possède un symbiote sous son nombril.
+            son symbiote à l'apparence d'une limace avec carapace tel un armadillo 
+            cheveux noir, ondulé jusqu'aux homoplates
+            frêle, peau pâle
+            des tâches, caractéristique des Trills, de ses tempes qui parcours son corps jusqu'à ses pieds
+
+Personnalité : jeune enfant qui sait presque tout sur tout.
+                Son apparence d'enfant incite les autres à ne pas la croire.
+                peu bavarde, ne parle que si on lui demande
+                débrouillarde en toute circonstance ( son savoir absolu l'aide pas mal)
