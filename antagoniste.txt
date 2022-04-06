@@ -7,17 +7,15 @@ Homme de 36 ans
 Grand, mince, long manteau
 Toujours en train de fumer, barbe de quelques jours
 
-* Description du caractere
-Personnage tres terre-a-terre
-Sur de lui, charismatique
+* Description du caractère
+Personnage très terre-à-terre
+Sûr de lui, charismatique
 Toujours d'une humeur taciturne
 
 * Histoire personnelle
-William Williams vient d'une longue lignee de brigands de petite envergure
-Ses parents l'ont eleve dans l'espoir qu'il honore le nom Williams
-Il n'a jamais voulu faire autre chose que sa "destinee"
-Il repand le nom Williams en recrutant des brigands
-Les williams :
+William et ses deux frères viennent d'une longue lignée de brigands de petite envergure
+Leurs parents les ont élevé dans l'espoir qu'ils honorent le nom Williams
+William n'a jamais voulu faire autre chose que sa "destinée"
 
 Personnage :
 
@@ -59,4 +57,4 @@ now here is some magic
 - la famille Williams est solidaire et généreuse, mais brutale
 - il s’entend surtout bien avec le frère du milieu, craint et admire William Williams
 - aime flâner en chiquant du tabac et brosser son cheval
-Trouver une nouvelle paire de pantoufles en forme de lapins roses.
+- trouver une nouvelle paire de pantoufles en forme de lapins roses.
