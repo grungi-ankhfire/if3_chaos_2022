@@ -1,0 +1,7 @@
+Type : 
+
+Nom et prenom :
+
+Apparence :
+
+Personnalité :
