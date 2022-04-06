@@ -1,6 +1,7 @@
-//Big Boss//
+//L'aîné//
 
 William Williams
+Premier enfant et donc hérite du prénom William.
 
 * Description physique
 Homme de 36 ans
@@ -13,7 +14,6 @@ Sûr de lui, charismatique
 Toujours d'une humeur taciturne
 
 * Histoire personnelle
-Premier enfant et donc hérite du prénom William
 William et ses deux frères viennent d'une longue lignée de brigands de petite envergure
 Leurs parents les ont élevé dans l'espoir qu'ils honorent le nom Williams
 William n'a jamais voulu faire autre chose que sa "destinée"
@@ -30,36 +30,40 @@ Il a un rire gras.
 
 Arme favorite : Lasso serti de clou
 
-* Description du caractere
+* Description du caractère
 Un peu maladroit et surtout sanguinaire.
 
 * Histoire personnelle
 Il à tout appris de son frère Williams, sanguinaire de nature, il tuait déjà à son plus jeune âge des lapins.
 Juste pour le plaisir...
 
-* Need :
+* Need
 Etre les plus méchant du Wild West, est son objectif ultime.
 Trouver une nouvelle paire de pantoufles en forme de lapins roses. #mais dafuq
 
 //Le benjamin//
 
-# john williams
-## apparence
+John williams
+Nom complet John Williams, fierté sur le nom Williams et appuie dessus plutôt que de mettre son prénom en valeur
+
+* Apparence
 - cheveux châtain sans rien de spécial
 - yeux clairs
 - trop bronzé passé trop de temps dans le désert
 - ressemble à ses frères
 - 18 ans
-## psy
+
+* Psy
 - embêté pcq + jeune que ses frères
 - fier d’avoir volé la banque Johnson
 - caractère nerveux et agité, tics.
-## vêtements
+
+* Vêtements
 - plutôt propre sur lui par rapport à ses frères
 - quand même un style général de cow-boy bandit
 - a un porte bonheur qu’il chipote en permanence
-## caractéristiques
-- nom entier John Williams, fierté sur le nom Williams et appuie dessus plutôt que de mettre son prénom en valeur
+
+* Caractéristiques
 - n’aime pas qu’on l’appelle Little John, mais tout le monde le fait
 - la famille Williams est solidaire et généreuse, mais brutale
 - il s’entend surtout bien avec le frère du milieu, craint et admire William Williams
@@ -70,4 +74,4 @@ Trouver une nouvelle paire de pantoufles en forme de lapins roses. #mais dafuq
 - sa maman lui manque
 - n’est pas vraiment religieux mais croit à moitié en dieu
 - aime le barbecue
-
+- celui qui a le plus de chances de mourir à cause d'un des protagonistes
