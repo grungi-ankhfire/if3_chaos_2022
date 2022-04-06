@@ -1,7 +1,7 @@
-Type : 
+Type : Mi-homard, mi-étincelle 
 
-Nom et prenom :
+Nom et prenom : Spincer
 
-Apparence :
+Apparence : Voir type
 
-Personnalité :
+Personnalité : Très intéressé par le fonctionnement des ressorts.
