@@ -1,3 +1,38 @@
+Type : enfant ( equivalent 14 ans âge humain)
+    origine  inconnue
+    race : Trill
+
+
+Nom et prenom : Cassandre ( pas de nom de fammille)
+
+Apparence : petite humanoide d'apparence humaine, possède un symbiote sous son nombril.
+            son symbiote à l'apparence d'une limace avec carapace tel un armadillo 
+            cheveux noir, ondulé jusqu'aux homoplates
+            frêle, peau pâle
+            des tâches, caractéristique des Trills, de ses tempes qui parcours son corps jusqu'à ses pieds
+
+Personnalité : jeune enfant qui sait presque tout sur tout.
+                Son apparence d'enfant incite les autres à ne pas la croire.
+                peu bavarde, ne parle que si on lui demande
+                débrouillarde en toute circonstance ( son savoir absolu l'aide pas mal)
+
+-------------------------------
+
+Type : Chat
+
+Nom et prenom : Bohemian Catsody
+
+Apparence : Petit chat roux d'apparence tranquille.
+		Il porte une grande cape a capuche qu'il porte toujours.
+		
+Personnalité :
+
+Catsody est bienveillant la majorité du temps, toutefois le coup de patte n'est jamais loin.
+Il est tres independant et voyage souvent seul, travaillant juste pour se nourrir. Tres bon cuisinier, 
+il etait le compagnon cuisinier d'un chasseur avant qu'il ne soit tuer.
+
+-------------------------------
+
 Type : Nymphe 19 ans en apparence mais 145 ans d'âge
 
 Nom et prénom : Omega Florea 
