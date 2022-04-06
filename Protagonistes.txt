@@ -22,7 +22,7 @@ Type : Chat
 
 Nom et prenom : Bohemian Catsody
 
-Apparence : Petit chat roux d'apparence tranquille.
+Apparence : Petit chat roux d'apparence tranquille se deplaçant sur ses deux pattes arrières .
 		Il porte une grande cape a capuche qu'il porte toujours.
 		
 Personnalité :
