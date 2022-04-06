@@ -4,7 +4,7 @@ William Williams
 
 * Description physique
 Homme de 36 ans
-Grand, mince, long manteau
+Grand, mince, long manteau, peu soigné
 Toujours en train de fumer, barbe de quelques jours
 
 * Description du caractère
