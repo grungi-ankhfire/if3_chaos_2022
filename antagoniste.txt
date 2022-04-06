@@ -18,21 +18,26 @@ William et ses deux frères viennent d'une longue lignée de brigands de petite 
 Leurs parents les ont élevé dans l'espoir qu'ils honorent le nom Williams
 William n'a jamais voulu faire autre chose que sa "destinée"
 
-Personnage :
+//Le frère cadet//
 
-Homme - nom : Bob
-
+Bob Williams
 Bob pour Robert. Mais il n'apprécie guère qu'on le nomme Robert. 
 
-Age : 25 ans
+* Desciption physique
+Homme de 25 ans
+Plutôt bien portant, chapeau trop grand pour sa tête
+Il a un rire gras.
+
 Arme favorite : Lasso serti de clou
 
-background story :
+* Description du caractere
+Un peu maladroit et surtout sanguinaire.
+
+* Histoire personnelle
 Il à tout appris de son frère Williams, sanguinaire de nature, il tuait déjà à son plus jeune âge des lapins.
 Juste pour le plaisir...
 
-Need :
-
+* Need :
 Etre les plus méchant du Wild West, est son objectif ultime.
 
 now here is some magic
