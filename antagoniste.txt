@@ -4,7 +4,7 @@ William Williams
 
 * Description physique
 Homme de 36 ans
-Grand, mince, long manteau
+Grand, mince, long manteau, peu soigné
 Toujours en train de fumer, barbe de quelques jours
 
 * Description du caractère
@@ -39,8 +39,8 @@ Juste pour le plaisir...
 
 * Need :
 Etre les plus méchant du Wild West, est son objectif ultime.
+Trouver une nouvelle paire de pantoufles en forme de lapins roses. #mais dafuq
 
-now here is some magic
 
 # john williams
 ## apparence
@@ -57,10 +57,16 @@ now here is some magic
 - plutôt propre sur lui par rapport à ses frères
 - quand même un style général de cow-boy bandit
 - a un porte bonheur qu’il chipote en permanence
-## questions
+## caractéristiques
 - nom entier John Williams, fierté sur le nom Williams et appuie dessus plutôt que de mettre son prénom en valeur
 - n’aime pas qu’on l’appelle Little John, mais tout le monde le fait
 - la famille Williams est solidaire et généreuse, mais brutale
 - il s’entend surtout bien avec le frère du milieu, craint et admire William Williams
 - aime flâner en chiquant du tabac et brosser son cheval
-- trouver une nouvelle paire de pantoufles en forme de lapins roses.
+- les rats le rendent nerveux
+- pour compenser la nervosité, il chique plus de tabac et parle à son cheval
+- va rarement voir les gens pour résoudre ses problèmes
+- sa maman lui manque
+- n’est pas vraiment religieux mais croit à moitié en dieu
+- aime le barbecue
+
